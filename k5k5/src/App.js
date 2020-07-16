@@ -2,7 +2,7 @@ import React from 'react';
 import { Route, Link } from 'react-router-dom';
 import Home from './Home';
 import About from './About';
-import Board from './components/Board';
+import Board from './components/Board/Board';
 
 const App = () => {
   return (
